@@ -14,6 +14,8 @@ An end user centered website design focused on the value provided and solving th
 
 When onboarding web2 to web3, users must first be met within a web2 context and then guided into a new domain of web3. Furthermore, during this guidance and journey into new tool adoption, psychological engagement cycles and styles should also be considered to ensure most impactful adoption (high engagement x high value). 
 
+This project stems inspiration from experience in creating connection and belonging with organizations, translating web2 constructs and standards into web3, investigating the state of onboarding and network engagegment within web3 environments, and in the psychology and neuroscience of stress and behavior. 
+
 ## What it does
 This site is first positioned in a value based way communicating the end outcome of Parallel Finance's tools and hosts a form that asks 4 questions to determine the potential Parallel Finance user's needs and goals. 
 
